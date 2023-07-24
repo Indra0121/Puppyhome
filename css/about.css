@@ -1,0 +1,15 @@
+h1{
+    font-size: 50px;
+    color: white;
+}
+h2{
+    font-size: 40px;
+    color: rgb(238, 211, 59);
+}
+main{
+    background-color: rgba(226, 161, 41, 0.61);
+    width: 90%;
+}
+p,li{
+    font-size: 25px;
+}

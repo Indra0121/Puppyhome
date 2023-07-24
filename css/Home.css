@@ -1,0 +1,50 @@
+
+  header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  h1{
+
+    margin: 0;
+    text-align: center;
+    font-size: 50px;
+    color: aliceblue;
+    text-shadow:  0  1px 5px orange;
+  }
+  
+  button{
+    background: none;
+    border: none;
+    position: absolute;
+    bottom: 5px;
+    
+  }
+  .traits{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-items: center;
+    
+  }
+  .box{
+   margin: 10px;
+    background-color: rgba(255, 255, 255, 0.651);
+    width: 200px;
+    text-align: center;
+    color: rgb(194, 171, 121);
+    font-size: 25px;
+    font-weight: bold;
+  }
+
+::selection {
+  color: rgb(255, 255, 255);
+  background: rgb(236, 205, 66);
+}
+ #Introduction h2{
+    text-align: center;
+    font-size: 35px;
+    color: white;
+  }

@@ -1,0 +1,38 @@
+html,body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+    padding-top: 0%;
+    margin-top: 0;
+    
+}
+  body{
+    background-image: url("../images/dog-running-through-autumn-leaves.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+ 
+  nav{
+    text-align: end;
+    background-color: rgba(243, 228, 162, 0.623);
+    height: 60px;
+    width: 100%;
+  
+  }
+
+  a{
+    padding: 10px;
+    margin-top: 5px;
+    text-decoration: none;
+    font-size: 30px;
+    color: rgb(187, 135, 38);
+    color: rgb(177, 119, 13);
+    font-weight:bold;
+  }
+  a:hover{
+    color: rgb(255, 184, 52);
+
+  }
+
