@@ -36,3 +36,8 @@ html,body {
 
   }
 
+
+  ::selection {
+    color: rgb(255, 255, 255);
+    background: rgb(236, 205, 66);
+  }

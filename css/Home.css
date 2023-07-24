@@ -39,10 +39,6 @@
     font-weight: bold;
   }
 
-::selection {
-  color: rgb(255, 255, 255);
-  background: rgb(236, 205, 66);
-}
  #Introduction h2{
     text-align: center;
     font-size: 35px;
